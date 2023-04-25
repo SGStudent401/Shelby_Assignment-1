@@ -5,8 +5,8 @@ body{
 
 .topSection{
     color:white;
-    background-color:rgb(60, 51, 232);
-    display:flex;
+    background-color:rgb(72, 20, 241);
+    display:flex; 
     flex-direction: row;
     align-items: center;   
 }
@@ -27,7 +27,6 @@ body{
 
 .headline-1{
     font-size: 20px;
-    
     padding-top: 150px;
     line-height:9px;
 }
@@ -41,25 +40,27 @@ body{
     font-size:x-small;
 }
 .button2{
-    padding: 10px 25px; 
+    padding: 10px 15px; 
     border-radius: 40px;
     border:0px;
     color:white;
     background-image:linear-gradient( to right, rgb(234, 146, 58), rgb(190, 112, 9));
-    font-size:10px;
+    font-size:60%;
     font-weight:bold;
 }
 
 .middleSection{
-    background-color:rgb(60, 51, 232);
+    background-color:rgb(72, 20, 241);
     color: rgb(187, 185, 185);
     padding-bottom: 80px;
     font-size: 12px;
 }
     
 .bottomSection{
-    background-color: rgb(60, 51, 232);
+    background-color: rgb(72, 20, 241);
     color: white;
+    align-items:center;
+    display:flex;
     
 }
 
